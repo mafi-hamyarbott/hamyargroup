@@ -17,7 +17,7 @@ return {
   run = run
 }
 end
---Copyright; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
+--Copyright; @Mhmafi
+--Persian Translate; @Mhmafi
+--ch : @Hamyargroupp
+--همیار گروه
