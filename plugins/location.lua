@@ -59,7 +59,7 @@ return {
 }
 
 end
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
+--Copyright and edit; @mhmafi
+--Persian Translate; @mhmafi
+--ch : @hamyargroupp
+--همیار گروه
